@@ -13,7 +13,7 @@ and we we're not encouraging other to contribute to VOC at this time.
 If you're interested in exploring future directions for Batavia, please `get in
 touch <https://gitter.im/beeware/general>`__.
 
-.. image:: http://beeware.org/project/projects/bridges/batavia/batavia.png
+.. image:: https://beeware.org/static/images/brutus-270.png?h=279716d8
     :width: 72px
     :target: https://beeware.org/batavia
 
